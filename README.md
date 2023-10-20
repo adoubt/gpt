@@ -6,7 +6,7 @@
 - Устанавливаем библиотеки в *Cmd*:
 >     pip install openai aiosqlite aiogram
 >     pip install loguru
->     pip insall tiktoken
+>     pip install tiktoken
 - Идем в *src/misc.py*:
   - Ставим токен (Получить токен можно здесь https://t.me/BotFather)
   - Здесь же в BotFather cтавим команды:
