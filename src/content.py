@@ -14,7 +14,7 @@ info_msg = """
 
 
 
-start_photo="AgACAgIAAxkBAAII6WUxvh5O98NIiB2syNx-Lyck-HwfAAJk0jEbQ6l4SbW-DAABEXHVLwEAAwIAA3kAAzAE"
+start_photo=""
 
 
 bot_version='v.1.5'
