@@ -1,4 +1,4 @@
-# Retma
+# GPTbot
 ## Настройки:
 
 - Устанавливаем [Python](https://www.python.org/downloads/release/python-3115/).
